@@ -1,0 +1,59 @@
+Include answers to all questions from Task#2b in this document, appending to the analysis.txt file created for Task#2a previously.
+
+Task#1:
+Problem 1:
+       Positive (count, % of gender, % of total)	Negative (count, % of gender, % of total)           total 
+female             2953  61.44% 14.46%                             1853   38.55%   9.07%	            4806   23.53%
+male               10616 67.98% 51.98% 	                           4999   32.01%  24.47%	            15615  76.45%   
+
+(assuming we exclude the reviews that were blank)
+The longest review is 899 tokens. The shortest review is 1 token. And the average length of reviews was 65 tokens long.
+
+RateMD Corpus:
+1. Reviews written by patients that have been seen by doctors on RateMD
+2. 20,421 reviews
+3. Doctor’s name, gender, office location, type of doctor, review sentiment
+4. N/A
+5. No (the dimensions are not uniformly distributed. There are more than 3x the number of reviews for male doctors. There is also a slight bias between the % number of positive and negative reviews for male and female.  It’s a natural distribution)
+
+Since the goal of the project in the scenario is to get insights into the patient experience, the fact that the RateMD corpus has no demographic information about patients is a big disadvantage.  With these anonymous reviews, there is no way to get insight into how people of different backgrounds are experiencing their visits to different doctors. If there was a certain demographic of patients that was disproportionately having negative experiences, it would be impossible to find out with this dataset. And if that were true, it would be something that the hypothetical company in the scenario would be very interested to know about.
+
+
+
+Task #2a:
+
+Step1 answer:
+It makes sense to convert tokens to lowercase, to remove punctuation, remove stop words, remove words with length less than 3, and to filter out the extremes. Specifically, I choose to filter out the words that have occurred in less than 4 articles and filter out the words that have occurred in more than 40% of the articles.
+
+Step2 answer:
+The dictionary is 8162 unique tokens after completing my preprocessing on it.
+
+Step4 answer:
+It took 125.73 seconds to run with Set 1 and it took 271.80 seconds to run with Set 2.
+
+Step5:
+
+problem 1 (I'm going to assume that you aren't expecting us to format a 2 tables with hundreds of entries in a .txt file.  Please refer to my word doc file for a clean representation of my topics listings.  I will just give my analysis here.)
+
+For Set1, I was able to come up with a label for 8 out of 10 of the topics.  I found waiting time, bedside manners, obstetrics, Time dedication, and Highly praised reviews easy to label, and I found chronic issues, critical procedures, and Las Vegas surgeons to be more difficult to label. As mentioned, I was unable to find a clear label for Topic5 and Topic10.
+
+For Set2, I was able to come up with a label for 15 out of 20 of the topics. I also found myself with several topics (16,17,20) that I would consider to be semantic duplicates of other topics.  With labelling, I found waiting time, comfort, Obstetrics, Life Saving, Second opinion, bedside manners, Time dedication, Phone calls, very negative reviews, and Insurance coverage to be easy to label. I think that the various highly praised reviews topics (15, 16, 20) had clear cohesion, but it was not clear why they formed seperate topics. The same would apply to the two phone calls labels (14,17). As mentioned, I was unable to find a clear label for Topics 1, 2, 5, 10, and 11. I found Topic9 Orthopedics/plastic surgery to be difficult to label because I thought it originally might have been something related to dentistry, but after looking at instances of Patel and thinking about this topic carefully, I came to the conclusion that topic9 is likely relating to reconstructive/appearance based procedures that orthopedic surgeons and plastic surgeons would perform. I believe Patel was included here because there is an orthopedic surgeon named Patel with many reviews where they are mentioned by name.
+
+Problem 2:
+
+For set1 lemma, I was able to come up with a label for 9 out of 10 of the topics.  I found time dedication, critical procedures, phone calls, waiting time, chronic issues, insurance coverage, and prescriptions and diagnosing to be easy to label. As had happened previously in problem1, I found that there were multiple topics that seemed to have a theme of highly positive reviews. And just as before, these topics had clear cohesion, but they may not have needed to have been seperate topics. I was unable to come up with a label for Topic4.
+
+For set2 Lemma, I was able to come up with a label for 17 out of 20 of the topics. I also found myself with several topics (9,16,20) that I would consider to be semantic duplicates of other topics. I found that waiting time, bedside manners, office staff, responsiveness, insurance coverage, chronic issues, prescriptions and treatments, long term joint pain, time dedication, serious condition diagnosis, and stressful exams/procedures to be easy to label. As with the No Lemma set two, I think that the various highly praised reviews topics (2,9,16,20) had clear cohesion, but it was probably not semantically necessary for them to be in different topics. I was unable to come up with a label for topics 7, 11, and 15.
+
+
+Problem 3:
+Comparing the results of set 1 and 2, with and without lemmatization, I think it is clear to see that lemmatization will provide better cohesion among topics, and it will produce less ambigious topic groupings.  The best overall approach would appear to be Set 1 with 10 topics and applying lemmatization, as this results in the smallest percentage of "fuzzy" labels. Considering that in Set 1 without lemmatization, I came up with a label of "las vegas surgeons" (chosen after skimming through the dataset because there was a seemingly disproportionate high number of reviews for surgeons in the Las Vegas area, and it seemed that the LDA model had grouped these together), I think it is also reasonable to say that the topics generated with lemmatization seemed to be more useful/generalizable. 
+
+
+
+
+Task #2b:
+
+Problem 1:
+I found that the ccLDA model takes 333.66 seconds for Set1 and 508 seconds for Set2, thus making ccLDA considerably slower than LDA with lemmatization (153.22 and 254.06 seconds respectively). However, for topic cohesion, ccLDA is clearly superior for the 10 topic list, as I found that I was able to label 9 out of 10 of the topics for set1.  I think this was less true of the 20 topic list, as I found myself confused when labelling groups.  I only achieved 16 out of 20 for set2. While not listed because there are too many top ten lists, being able to cross-reference the top ten lists of the different collections was very beneficial to deciphering uncertain topic labels, or to make others more specific (ie, highly positive reviews can clearly be seen as sentiment based reviews by cross referencing the negative collections top ten lists). I do think, however, that the 1 fuzzy topic label left for set1 was slightly less semantically coherent than it was for LDA. I think this was also true for the 4 fuzzy labels of set2.  It would seem to me that ccLDA has the effect of making clear labels more clear, while making some fuzzy labels even worse.
+

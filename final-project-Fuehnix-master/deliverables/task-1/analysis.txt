@@ -1,0 +1,19 @@
+Include answers to all questions from Task#1 in this document
+NOTE: This was completed on time, but I forgot to submit my analysis answers in this txt file.  The on-time submission is inside my word document.  You can find the same answers that I list here in that document.
+
+Problem 1:
+       Positive (count, % of gender, % of total)	Negative (count, % of gender, % of total)           total 
+female             2953  61.44% 14.46%                             1853   38.55%   9.07%	            4806   23.53%
+male               10616 67.98% 51.98% 	                           4999   32.01%  24.47%	            15615  76.45%   
+
+(assuming we exclude the reviews that were blank)
+The longest review is 899 tokens. The shortest review is 1 token. And the average length of reviews was 65 tokens long.
+
+RateMD Corpus:
+1. Reviews written by patients that have been seen by doctors on RateMD
+2. 20,421 reviews
+3. Doctor’s name, gender, office location, type of doctor, review sentiment
+4. N/A
+5. No (the dimensions are not uniformly distributed. There are more than 3x the number of reviews for male doctors. There is also a slight bias between the % number of positive and negative reviews for male and female.  It’s a natural distribution)
+
+Since the goal of the project in the scenario is to get insights into the patient experience, the fact that the RateMD corpus has no demographic information about patients is a big disadvantage.  With these anonymous reviews, there is no way to get insight into how people of different backgrounds are experiencing their visits to different doctors. If there was a certain demographic of patients that was disproportionately having negative experiences, it would be impossible to find out with this dataset. And if that were true, it would be something that the hypothetical company in the scenario would be very interested to know about.

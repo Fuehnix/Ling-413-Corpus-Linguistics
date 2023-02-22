@@ -1,0 +1,4 @@
+# Describe here your processes.
+I created a jupyter notebook to analyze my corpus. For my process, I load in the data file and I split by the new line character. I create some maps of the doctors to certain information, such as the reviews, and I also create some maps to keep track the positive and negative reviews for male and female doctors. All relevant values for part 1 are printed.
+
+For task 2, I clean the corpus, split the dataset into 2 parts, and perform lemmatization on the reviews for each, these are the 10 topic and 20 topic models.  Outputs are shown in the jupyter notebook for this and the application can be rerun by running the cells.  At the end of the document, I have labelled the sections relating to task2b.  Here, I prepare the dataset into a new corpus text file that is in the format needed for the ccLDA java code.

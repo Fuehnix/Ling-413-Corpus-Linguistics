@@ -1,0 +1,1080 @@
+Topic 1
+--------
+wait
+call
+appointment
+get
+time
+see
+office
+hour
+minute
+day
+room
+never
+phone
+take
+back
+schedule
+come
+return
+leave
+even
+-Collection 0
+  time
+  patient
+  problem
+  always
+  see
+  doctor
+  seem
+  take
+  long
+  need
+  test
+  visit
+  best
+  nurse
+  right
+  good
+  make
+  able
+  worth
+  ive
+-Collection 1
+  call
+  make
+  doctor
+  nurse
+  hour
+  room
+  back
+  ask
+  visit
+  tell
+  say
+  week
+  patient
+  month
+  first
+  later
+  test
+  prescription
+  another
+  finally
+-Collection 2
+  time
+  always
+  patient
+  best
+  long
+  test
+  problem
+  staff
+  nurse
+  visit
+  much
+  year
+  seem
+  sometimes
+  quickly
+  worth
+  lot
+  personally
+  rush
+  would
+-Collection 3
+  call
+  tell
+  visit
+  month
+  doctor
+  hour
+  make
+  work
+  ask
+  week
+  first
+  someone
+  finally
+  appt
+  later
+  way
+  would
+  speak
+  still
+  cancel
+
+
+Topic 2
+--------
+patient
+medical
+treatment
+physician
+condition
+diagnosis
+issue
+practice
+health
+problem
+give
+many
+specialist
+provide
+knowledge
+without
+need
+refer
+treat
+information
+-Collection 0
+  best
+  care
+  excellent
+  thorough
+  well
+  treatment
+  outstanding
+  treat
+  also
+  health
+  extremely
+  trust
+  recommend
+  top
+  professional
+  respect
+  compassionate
+  condition
+  experience
+  physician
+-Collection 1
+  test
+  best
+  opinion
+  record
+  order
+  refuse
+  result
+  lack
+  another
+  request
+  make
+  medication
+  experience
+  poor
+  state
+  report
+  claim
+  fail
+  appear
+  instead
+-Collection 2
+  care
+  best
+  excellent
+  well
+  knowledgeable
+  compassionate
+  extremely
+  thorough
+  physician
+  understand
+  health
+  listens
+  attentive
+  competent
+  outstanding
+  impressed
+  smart
+  provide
+  knowledge
+  appreciate
+-Collection 3
+  record
+  poor
+  lack
+  wrong
+  however
+  refuse
+  make
+  though
+  file
+  request
+  opinion
+  physical
+  state
+  worse
+  license
+  saw
+  appear
+  letter
+  later
+  despite
+
+
+Topic 3
+--------
+back
+pain
+problem
+month
+year
+week
+would
+get
+find
+could
+tell
+give
+saw
+later
+day
+refer
+two
+need
+first
+help
+-Collection 0
+  surgery
+  pain
+  surgeon
+  perform
+  life
+  recovery
+  thank
+  recommend
+  shakiba
+  hospital
+  option
+  able
+  knee
+  rivadeneira
+  hand
+  day
+  ago
+  aviv
+  free
+  spine
+-Collection 1
+  pain
+  surgery
+  tell
+  say
+  nothing
+  never
+  see
+  mri
+  wrong
+  another
+  show
+  surgeon
+  second
+  visit
+  report
+  spine
+  infection
+  something
+  ear
+  still
+-Collection 2
+  doctor
+  help
+  life
+  able
+  need
+  thank
+  kolb
+  find
+  grateful
+  every
+  lot
+  test
+  woman
+  area
+  thanks
+  address
+  blood
+  truly
+  exam
+  breast
+-Collection 3
+  test
+  blood
+  result
+  pain
+  send
+  prescribe
+  order
+  pap
+  nothing
+  high
+  report
+  mention
+  medication
+  disease
+  lab
+  ultrasound
+  med
+  pressure
+  diagnosis
+  anxiety
+
+
+Topic 4
+--------
+time
+best
+question
+like
+feel
+answer
+never
+make
+talk
+listen
+ask
+spend
+felt
+concern
+always
+rush
+thing
+really
+explain
+know
+-Collection 0
+  take
+  make
+  feel
+  explain
+  always
+  answer
+  question
+  everything
+  best
+  comfortable
+  patient
+  concern
+  listen
+  well
+  sure
+  understand
+  doctor
+  easy
+  ease
+  great
+-Collection 1
+  didnt
+  seem
+  rude
+  waste
+  even
+  leave
+  long
+  want
+  little
+  come
+  minute
+  like
+  less
+  short
+  act
+  bother
+  try
+  anything
+  least
+  enough
+-Collection 2
+  take
+  make
+  feel
+  listen
+  really
+  always
+  answer
+  explain
+  caring
+  thorough
+  concern
+  comfortable
+  everything
+  question
+  great
+  willing
+  ease
+  extra
+  easy
+  confident
+-Collection 3
+  seem
+  nurse
+  another
+  want
+  didnt
+  experience
+  minute
+  appointment
+  switch
+  change
+  knowledgeable
+  decide
+  cold
+  wont
+  unfortunately
+  suppose
+  weight
+  maybe
+  disappointed
+  quickly
+
+
+Topic 5
+--------
+year
+best
+see
+take
+husband
+life
+son
+hospital
+could
+never
+old
+one
+time
+find
+mother
+ago
+cancer
+know
+away
+care
+-Collection 0
+  best
+  year
+  doctor
+  family
+  life
+  love
+  save
+  always
+  daughter
+  since
+  many
+  child
+  son
+  man
+  husband
+  thank
+  bless
+  wish
+  kid
+  refer
+-Collection 1
+  get
+  man
+  tell
+  day
+  hospital
+  cause
+  family
+  lose
+  turn
+  end
+  sign
+  refuse
+  daughter
+  think
+  stop
+  allow
+  later
+  father
+  eye
+  die
+-Collection 2
+  best
+  year
+  love
+  ever
+  family
+  daughter
+  save
+  caring
+  trust
+  amazing
+  pediatrician
+  practice
+  move
+  wife
+  since
+  world
+  expertise
+  doc
+  miller
+  honest
+-Collection 3
+  tell
+  surgery
+  woman
+  lose
+  day
+  cause
+  daughter
+  allow
+  die
+  nasty
+  hysterectomy
+  end
+  turn
+  refuse
+  obgyn
+  excuse
+  fluid
+  open
+  pediatrician
+  ear
+
+
+Topic 6
+--------
+get
+say
+tell
+want
+dont
+try
+didnt
+think
+know
+ask
+give
+could
+come
+see
+like
+something
+even
+need
+medication
+back
+-Collection 0
+  help
+  doctor
+  know
+  work
+  find
+  see
+  good
+  way
+  would
+  year
+  much
+  people
+  like
+  better
+  ive
+  one
+  thing
+  first
+  never
+  many
+-Collection 1
+  tell
+  say
+  would
+  take
+  doctor
+  even
+  ask
+  blood
+  prescribe
+  test
+  walk
+  med
+  work
+  drug
+  already
+  though
+  write
+  way
+  ive
+  basically
+-Collection 2
+  see
+  work
+  make
+  find
+  good
+  take
+  one
+  also
+  insurance
+  though
+  little
+  doctor
+  issue
+  plan
+  however
+  nice
+  awesome
+  practice
+  people
+  comment
+-Collection 3
+  say
+  tell
+  didnt
+  take
+  room
+  ever
+  second
+  ive
+  away
+  stay
+  ask
+  would
+  shes
+  horrible
+  exam
+  fill
+  walk
+  prescription
+  refill
+  basically
+
+
+Topic 7
+--------
+staff
+best
+office
+doctor
+patient
+service
+work
+visit
+good
+need
+see
+always
+nurse
+great
+get
+front
+well
+also
+rude
+extremely
+-Collection 0
+  staff
+  helpful
+  best
+  great
+  friendly
+  professional
+  knowledgeable
+  care
+  experience
+  nice
+  always
+  excellent
+  everyone
+  pleasant
+  wonderful
+  courteous
+  personable
+  efficient
+  easy
+  dentist
+-Collection 1
+  insurance
+  pay
+  rude
+  bill
+  money
+  charge
+  company
+  cover
+  unprofessional
+  front
+  wife
+  incompetent
+  manager
+  speak
+  billing
+  return
+  lie
+  unless
+  send
+  copay
+-Collection 2
+  helpful
+  friendly
+  professional
+  great
+  always
+  staff
+  family
+  experience
+  kind
+  knowledgeable
+  pleasant
+  efficient
+  caring
+  friend
+  courteous
+  nice
+  mccormack
+  jacobson
+  understanding
+  pleased
+-Collection 3
+  rude
+  back
+  bill
+  leave
+  never
+  practice
+  long
+  manager
+  incompetent
+  deal
+  claim
+  billing
+  phone
+  pcp
+  routine
+  mail
+  patients
+  wouldnt
+  unless
+  hollie
+
+
+Topic 8
+--------
+best
+would
+doctor
+recommend
+manner
+bedside
+anyone
+child
+baby
+first
+care
+make
+experience
+daughter
+extremely
+absolutely
+pregnant
+pregnancy
+well
+woman
+-Collection 0
+  highly
+  recommend
+  great
+  anyone
+  wonderful
+  excellent
+  love
+  caring
+  knowledgeable
+  would
+  deliver
+  family
+  friend
+  kind
+  knowledgable
+  amazing
+  pregnancy
+  obgyn
+  fantastic
+  staff
+-Collection 1
+  rude
+  never
+  worst
+  horrible
+  terrible
+  ever
+  experience
+  arrogant
+  poor
+  unprofessional
+  treat
+  uncaring
+  awful
+  man
+  condescending
+  attitude
+  unhelpful
+  one
+  misdiagnosed
+  nasty
+-Collection 2
+  great
+  highly
+  knowledgeable
+  love
+  deliver
+  amazing
+  pregnancy
+  wonderful
+  child
+  excellent
+  obgyn
+  everyone
+  fantastic
+  awesome
+  easy
+  baby
+  sweet
+  sure
+  gentle
+  amaze
+-Collection 3
+  rude
+  never
+  even
+  terrible
+  unprofessional
+  horrible
+  awful
+  pregnancy
+  poor
+  word
+  push
+  pregnant
+  attitude
+  cold
+  reason
+  gain
+  insensitive
+  forget
+  plan
+  compassion
+
+
+Topic 9
+--------
+best
+would
+look
+procedure
+experience
+make
+one
+result
+work
+even
+surgeon
+want
+face
+perform
+remove
+job
+come
+say
+also
+much
+-Collection 0
+  surgery
+  staff
+  surgeon
+  recommend
+  result
+  happy
+  amazing
+  procedure
+  highly
+  great
+  pleased
+  day
+  well
+  thank
+  schwartz
+  wonderful
+  breast
+  everyone
+  friend
+  expect
+-Collection 1
+  surgery
+  bad
+  still
+  fix
+  try
+  procedure
+  didnt
+  mistake
+  get
+  horrible
+  let
+  another
+  worse
+  nose
+  breast
+  correct
+  side
+  cut
+  mess
+  pull
+-Collection 2
+  recommend
+  surgery
+  highly
+  treatment
+  happy
+  skin
+  professional
+  anyone
+  friend
+  dermatologist
+  cancer
+  definitely
+  dentist
+  lee
+  many
+  ease
+  satisfied
+  recently
+  mclaughlin
+  beautiful
+-Collection 3
+  insurance
+  pay
+  another
+  charge
+  money
+  never
+  instead
+  skin
+  cover
+  try
+  still
+  company
+  end
+  ask
+  cash
+  return
+  copay
+  payment
+  less
+  assistant
+
+
+Topic 10
+--------
+doctor
+best
+patient
+care
+ever
+see
+know
+one
+help
+find
+good
+like
+ive
+treat
+person
+problem
+need
+better
+really
+listen
+-Collection 0
+  best
+  caring
+  kind
+  great
+  wonderful
+  excellent
+  knowledgeable
+  compassionate
+  physician
+  really
+  truly
+  hes
+  listen
+  good
+  manner
+  doc
+  bedside
+  man
+  listens
+  ever
+-Collection 1
+  dont
+  doesnt
+  guy
+  people
+  make
+  worst
+  money
+  want
+  away
+  practice
+  someone
+  stay
+  hes
+  please
+  mean
+  life
+  bad
+  worse
+  comment
+  run
+-Collection 2
+  best
+  shes
+  wonderful
+  great
+  ive
+  caring
+  kind
+  knowledgeable
+  knowledgable
+  thorough
+  really
+  compassionate
+  truly
+  intelligent
+  personable
+  genuinely
+  hard
+  skilled
+  thoughtful
+  supportive
+-Collection 3
+  worst
+  dont
+  even
+  people
+  make
+  bad
+  money
+  shes
+  doesnt
+  mean
+  waste
+  run
+  referral
+  uncaring
+  unprofessional
+  medical
+  please
+  cough
+  avoid
+  arrogant
+
+
